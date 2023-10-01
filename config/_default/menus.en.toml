@@ -1,0 +1,23 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Events"
+url = "event/"
+weight = 2
+
+[[main]]
+name = "Team"
+url = "authors/"
+weight = 3
+
+# footer menu
+[[footer]]
+name = "Workplace Ninja Summit 2024"
+url = "https://www.wpninjas.ch/"
+weight = 1

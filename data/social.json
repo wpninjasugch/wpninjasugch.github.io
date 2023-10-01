@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/wpninjasch"
+    },
+    {
+      "name": "meetup",
+      "icon": "fab fa-meetup",
+      "link": "https://www.meetup.com/wpninjasugswitzerland/"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+  <section class="section">
+    <div class="container">
+      <div class="row gx-5">
+        <!-- blog posts -->
+        <div class="lg:col">
+          <div class="row">
+            {{ $paginator:= .Paginate .RegularPages }}
+            {{ range $paginator.Pages }}
+              <div class="md:col-6 mb-14">
+                <div class="bg-body dark:bg-darkmode-body">
+                  {{ $image:= .Params.image }}
+                  {{ if $image }}
+                    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
+                  {{ end }}
+                  <h4 class="mb-3">
+                    <a href="{{ .RelPermalink }}">
+                      {{ .Title }}
+                    </a>
+                  </h4>
+                  <h5 class="mb-3">
+                    🗓️ {{ .Params.cdate }}
+                  </h5>
+                  <h5 class="mb-3">
+                    📍 {{ .Params.location }}
+                  </h5>
+                  <p class="mb-6">{{ .Description }}</p>
+                  <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
+                    {{ i18n "read_more" }}
+                  </a>
+                </div>
+              </div>
+            {{ end }}
+          </div>
+          {{ partial "components/pagination.html" . }}
+        </div>
+        <!-- sidebar -->
+        <div class="lg:col-4">
+          <!-- widget -->
+          {{ $widget:= site.Params.widgets.sidebar }}
+          {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
