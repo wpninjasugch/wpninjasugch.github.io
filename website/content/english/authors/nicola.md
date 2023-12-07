@@ -4,6 +4,14 @@ email: hi@nicolasuter.ch
 image: "https://www.basevision.ch/wp-content/uploads/2022/06/Nicola-Suter-80.jpg"
 description: About Nicola S.
 social:
+  - name: untappd
+    icon: fa-brands fa-untappd
+    link: https://untappd.com/user/niciboy
+
+  - name: untappd
+    icon: fa-brands fa-strava
+    link: https://www.strava.com/athletes/11723047
+
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/nicolonsky
@@ -17,4 +25,4 @@ social:
     link: https://www.linkedin.com/in/nicolasuter
 ---
 
-Wannabee Barista und interessiert an allem was sich um Microsoft Security und Endpoint Management bewegt.
+Wannabee Barista, nicht nur sportlich unterwegs sondern auch interessiert an allem was sich rund um Microsoft Security und Endpoint Management bewegt.
