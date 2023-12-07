@@ -17,4 +17,4 @@ social:
     link: https://www.linkedin.com/in/janic-verboon-04b11b114/
 ---
 
-Endpoint Engineer mit grossem Interesse an neuen Technologien :computer: , gutem Bier :beer: und lauter Musik :metal: 
+Endpoint Engineer mit grossem Interesse an neuen Technologien, gutem Bier und lauter Musik.
