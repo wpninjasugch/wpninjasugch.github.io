@@ -17,4 +17,4 @@ social:
     link: https://www.linkedin.com/in/janic-verboon-04b11b114/
 ---
 
-Janic is working as an Endpoint Engineer at baseVISION in Switzerland, his main focus is around the management of mobile devices where he has experience from various projects. 
+Endpoint Engineer mit grossem Interesse an neuen Technologien :computer: , gutem Bier :beer: und lauter Musik :metal: 
