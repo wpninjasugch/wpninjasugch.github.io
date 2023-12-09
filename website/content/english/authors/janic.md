@@ -4,8 +4,7 @@ email: janic.verboon@basevision.ch
 image: "https://www.basevision.ch/wp-content/uploads/2022/06/Janick-Verboon_MG_5860.jpg"
 description: this is meta description
 social:
-
-- name: untappd
+  - name: untappd
     icon: fa-brands fa-untappd
     link: https://untappd.com/user/Janic1904
   
