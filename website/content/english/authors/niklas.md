@@ -6,7 +6,7 @@ image: "https://www.basevision.ch/wp-content/uploads/2022/08/Niklas-Tinner-14-fa
 description: this is meta description
 social:
   - name: linkedin
-    icon: fa-brands fa-globe
+    icon: fa-solid fa-globe
     link: https://oceanleaf.ch
 	
   - name: github
