@@ -5,8 +5,8 @@ email: niklas@oceanleaf.ch
 image: "https://www.basevision.ch/wp-content/uploads/2022/08/Niklas-Tinner-14-favorit_Webgrosse.jpg"
 description: this is meta description
 social:
-  - name: linkedin
-    icon: fa-solid fa-globe
+  - name: Website
+    icon: fa-globe
     link: https://oceanleaf.ch
 	
   - name: github
