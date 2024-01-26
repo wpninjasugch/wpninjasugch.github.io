@@ -5,6 +5,10 @@ email: niklas@oceanleaf.ch
 image: "https://www.basevision.ch/wp-content/uploads/2022/08/Niklas-Tinner-14-favorit_Webgrosse.jpg"
 description: this is meta description
 social:
+  - name: linkedin
+    icon: fa-brands fa-globe
+    link: https://oceanleaf.ch
+	
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/thenikk
@@ -18,4 +22,4 @@ social:
     link: https://linkedin.com/in/niklas-tinner/
 ---
 
-My name is Niklas, and I am a technology enthusiast. Currently, as an Endpoint Engineer, my focus is on endpoint management, security and automation with Microsoft cloud services. I also run my own blog Oceanleaf.ch
+Technologie Enthusiast und Microsoft MVP - fokussiert auf Microsoft Cloud, Endpoint Management und Security.
