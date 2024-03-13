@@ -16,8 +16,13 @@ name = "Team"
 url = "authors/"
 weight = 3
 
+[[main]]
+name = "Sessions"
+url = "sessions/"
+weight = 4
+
 # footer menu
 [[footer]]
-name = "Workplace Ninja Summit 2024"
+name = "Anmeldung Workplace Ninja Summit 2024 in Luzern"
 url = "https://www.wpninjas.ch/"
 weight = 1

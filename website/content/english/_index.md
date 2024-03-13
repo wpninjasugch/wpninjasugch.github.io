@@ -6,12 +6,9 @@ banner:
   image: "images/logo_big_ch.jpg"
   button:
     enable: true
-    label: "Anmeldung #WPNinjasUGCH2312"
-    link: "https://www.meetup.com/wpninjasugswitzerland/events/296946433/"
-  button:
-    enable: true
-    label: "Anmeldung #WPNinjasUGCH2312"
-    link: "https://www.meetup.com/wpninjasugswitzerland/events/296946433/"
+    label: "Anmeldung zum nächsten #WPNinjasUGCH Event"
+    link: "https://www.meetup.com/wpninjasugswitzerland"
+
 
 # Features
 features:
