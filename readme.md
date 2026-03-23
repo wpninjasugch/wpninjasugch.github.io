@@ -1,3 +1,3 @@
-# WP Ninjas CH
+# Workplace & Security Ninja User Group Switzerland
 
-Workplace Ninjas Usergroup Switzerland Website and Content.
+This repository hosts our website <https://configmgr.ch/> and [sessions slides](/slides) (if made available by the speakers).
